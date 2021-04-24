@@ -1,7 +1,8 @@
 .button{
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
     background-color: cornflowerblue;
     color: black;
-    margin: 600px;
+    cursor: pointer;
+    margin-left: 500px;
 }
